@@ -1,2 +1,2 @@
-# app
+# scan
 appscript webapp from exec
